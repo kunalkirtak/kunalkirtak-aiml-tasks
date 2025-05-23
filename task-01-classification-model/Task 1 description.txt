@@ -1,0 +1,2 @@
+Task 1:
+Build a simple image classification model using a popular dataset (e.g., CIFAR-10) and a deep learning framework (e.g., TensorFlow or PyTorch). Train the model, evaluate its performance, and experiment with different hyperparameters to improve accuracy.
