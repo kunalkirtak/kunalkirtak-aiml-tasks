@@ -1,8 +1,8 @@
 Task 4:
-Develop a simple image classification model using machine learning to classify images into categories (e.g., animals, vehicles, buildings).
+Develop a simple image classification model using machine learning to classify images into categories (cat,dog).
 
 Steps
-1. Collect and label a dataset of images.
+1. Collect and label a dataset of images.(150 images of cat, 150 images of dog - manual labeling)
 2. Preprocess the images (e.g., resize, normalize).
 3. Train a machine learning model (e.g., convolutional neural network) on the dataset.
 4. Evaluate the model's performance using metrics like accuracy.
