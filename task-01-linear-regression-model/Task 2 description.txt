@@ -1,0 +1,2 @@
+Task 2:
+Build a simple linear regression model using scikit-learn to predict house prices based on the number of rooms. Use a sample dataset (e.g., Boston Housing) and evaluate the model's performance using metrics like Mean Squared Error (MSE) and R-squared.
