@@ -1,0 +1,12 @@
+Task 3:
+Create a simple chatbot that responds to basic user queries like "What's your name?" or "What can you do?" using machine learning.
+
+Steps
+1. Define intents (e.g., greeting, introduction, capabilities).
+2. Collect and label training data for each intent.
+3. Train a machine learning model (e.g., natural language processing) to recognize intents.
+4. Integrate the model with a chatbot platform.
+5. Test and refine the chatbot's responses.
+
+Tools
+You can use libraries like NLTK, spaCy, or Dialogflow to build the chatbot.
