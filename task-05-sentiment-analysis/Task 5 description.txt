@@ -1,0 +1,10 @@
+Task
+Build a sentiment analysis model using natural language processing (NLP) to classify text as positive, negative, or neutral.
+
+Steps
+1. Collect and preprocess text data (e.g., reviews, tweets)
+2. Train a machine learning model (e.g., supervised learning)
+3. Evaluate model performance using metrics like accuracy and F1-score
+
+Tools
+You can use libraries like NLTK, spaCy, TensorFlow, or PyTorch.
