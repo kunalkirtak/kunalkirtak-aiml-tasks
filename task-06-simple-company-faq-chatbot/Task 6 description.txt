@@ -1,0 +1,14 @@
+Task 6 :
+Develop a chatbot that can answer frequently asked questions (FAQs) about a company, such as:
+
+1. What products/services do you offer?
+2. What are your business hours?
+3. How can I contact customer support?
+
+Requirements
+1. Define intents and responses
+2. Train a machine learning model to recognize user queries
+3. Integrate with a chatbot platform
+
+Tools
+You can use libraries like Dialogflow, NLTK, or spaCy.
