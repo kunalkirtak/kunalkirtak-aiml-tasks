@@ -1,0 +1,2 @@
+Task 7:
+Create a simple chatbot response for the input "Hello" with the output "Hi, how can I assist you today?"
