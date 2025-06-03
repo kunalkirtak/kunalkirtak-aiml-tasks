@@ -1,0 +1,6 @@
+Task 8:
+Create an AIML category that responds to the input "How are you?" with a variety of responses, such as:
+
+1. "I'm doing well, thank you!"
+2. "I'm great, thanks for asking!"
+3. "I'm good, how about you?"
